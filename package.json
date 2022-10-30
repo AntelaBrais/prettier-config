@@ -1,0 +1,13 @@
+{
+  "name": "@antelab/prettier-config",
+  "version": "1.0.0",
+  "description": "Antelab Prettier shareable config",
+  "main": "index.json",
+  "repository": "git@github.com:antelabrais/prettier-config.git",
+  "publishConfig": {
+    "access": "public"
+  },
+  "np": {
+    "tests": false
+  }
+}
